@@ -1,5 +1,8 @@
-// digmouse233
-
+/*
+ * Author: digmouse233
+ * Time Complexity: O(log N)
+ * Space Complexity: O(1)
+ */
 public class Solution {
     public int search(int[] nums, int target) {
         // Initialize two pointers
