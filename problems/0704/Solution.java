@@ -3,6 +3,7 @@
  * Time Complexity: O(log N)
  * Space Complexity: O(1)
  */
+
 public class Solution {
     public int search(int[] nums, int target) {
         // Initialize two pointers
@@ -24,7 +25,7 @@ public class Solution {
             }
         }
 
-        // Return -1 if there is no target in the array
+        // Return -1 if there is no target number in the array
         return -1;
     }
 }
