@@ -2,7 +2,7 @@
 
 This Repo is used to record the process of killing (or being killed) by LeetCode. 
 
-### Process Tracker
+### Progress Tracker
 
 | Date       | Problem                                 | Difficulty | Category      |
 | ---------- | --------------------------------------- | ---------- | ------------- |
