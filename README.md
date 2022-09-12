@@ -1,8 +1,8 @@
-### LeetCode Killer
+## LeetCode Killer
 
 This Repo is used to record the process of killing (or being killed) by LeetCode. 
 
-#### Process Tracker
+### Process Tracker
 
 | Date       | Problem                                 | Difficulty | Category      |
 | ---------- | --------------------------------------- | ---------- | ------------- |
@@ -13,7 +13,7 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/12 | 0853 - Car Fleet                        | Medium     | Stack         |
 | 2022/09/12 | 0704 - Binary Search                    | Easy       | Binary Search |
 
-#### Contributors
+### Contributors
 
 In memory of all the contributors who fought bravely against LeetCode. 
 
