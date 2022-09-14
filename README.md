@@ -28,6 +28,11 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/13 | [0033 - Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium     | Binary Search |
 | 2022/09/13 | [0153 - Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium     | Binary Search |
 | 2022/09/13 | [0981 - Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium     | Binary Search |
+| 2022/09/14 | [0206 - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy       | Linked List   |
+| 2022/09/14 | [0021 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy       | Linked List   |
+| 2022/09/14 | [0143 - Reorder List](https://leetcode.com/problems/reorder-list/) | Medium     | Linked List   |
+| 2022/09/14 | [0019 - Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium     | Linked List   |
+| 2022/09/14 | [0138 - Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium     | Linked List   |
 
 ### Contributors
 
