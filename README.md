@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 4     | 21.05%     |
-| Medium     | 15    | 78.95%     |
+| Easy       | 4     | 20%        |
+| Medium     | 16    | 80%        |
 | Hard       | 0     | 0%         |
-| **Total**  | 19    | 100%       |
+| **Total**  | 20    | 100%       |
 
 #### Details
 
