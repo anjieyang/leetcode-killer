@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 3     | 18.75%     |
-| Medium     | 13    | 81.25%     |
+| Easy       | 4     | 21.05%     |
+| Medium     | 15    | 78.95%     |
 | Hard       | 0     | 0%         |
-| **Total**  | 16    | 100%       |
+| **Total**  | 19    | 100%       |
 
 #### Details
 
@@ -33,6 +33,9 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/14 | [0143 - Reorder List](https://leetcode.com/problems/reorder-list/) | Medium     | Linked List   |
 | 2022/09/14 | [0019 - Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium     | Linked List   |
 | 2022/09/14 | [0138 - Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium     | Linked List   |
+| 2022/09/15 | [0021 - Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy       | Linked List   |
+| 2022/09/15 | [0143 - Reorder List](https://leetcode.com/problems/reorder-list/) | Medium     | Linked List   |
+| 2022/09/15 | [0019 - Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium     | Linked List   |
 
 ### Contributors
 
