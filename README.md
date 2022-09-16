@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 4     | 20%        |
-| Medium     | 16    | 80%        |
+| Easy       | 6     | 25%        |
+| Medium     | 18    | 75%        |
 | Hard       | 0     | 0%         |
-| **Total**  | 20    | 100%       |
+| **Total**  | 24    | 100%       |
 
 #### Details
 
@@ -37,6 +37,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/15 | [0287 - Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium     | Linked List   |
 | 2022/09/15 | [0002 - Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium     | Linked List   |
 | 2022/09/15 | [0146 - LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium     | Linked List   |
+| 2022/09/16 | [0226 - Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy       | Trees         |
+| 2022/09/16 | [0104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy       | Trees         |
+| 2022/09/16 | [0102 - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium     | Trees         |
+| 2022/09/16 | [0199 - Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium     | Trees         |
 
 ### Contributors
 
