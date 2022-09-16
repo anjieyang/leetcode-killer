@@ -41,6 +41,11 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/16 | [0104 - Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy       | Trees         |
 | 2022/09/16 | [0102 - Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium     | Trees         |
 | 2022/09/16 | [0199 - Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium     | Trees         |
+| 2022/09/17 | [0543 - Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy       | Trees         |
+| 2022/09/17 | [0110 - Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy       | Trees         |
+| 2022/09/17 | [1448 - Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium     | Trees         |
+| 2022/09/17 | [0098 - Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium     | Trees         |
+| 2022/09/17 | [0230 - Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium     | Trees         |
 
 ### Contributors
 
