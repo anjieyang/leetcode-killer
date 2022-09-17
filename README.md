@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 8     | 27.59%     |
-| Medium     | 21    | 72.41%     |
+| Easy       | 11    | 33.33%     |
+| Medium     | 22    | 66.67%     |
 | Hard       | 0     | 0%         |
-| **Total**  | 29    | 100%       |
+| **Total**  | 33    | 100%       |
 
 #### Details
 
@@ -46,6 +46,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/17 | [1448 - Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium     | Trees         |
 | 2022/09/17 | [0098 - Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium     | Trees         |
 | 2022/09/17 | [0230 - Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium     | Trees         |
+| 2022/09/18 | [0100 - Same Tree](https://leetcode.com/problems/same-tree/) | Easy       | Trees         |
+| 2022/09/18 | [0572 - Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy       | Trees         |
+| 2022/09/18 | [0235 - LCA of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Easy       | Trees         |
+| 2022/09/18 | [0105 - Construct BT from Preorder and inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium     | Trees         |
 
 ### Contributors
 
