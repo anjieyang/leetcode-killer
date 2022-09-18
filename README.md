@@ -8,8 +8,8 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 11    | 33.33%     |
-| Medium     | 22    | 66.67%     |
+| Easy       | 10    | 30.30%     |
+| Medium     | 23    | 69.70%     |
 | Hard       | 0     | 0%         |
 | **Total**  | 33    | 100%       |
 
@@ -48,7 +48,7 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/17 | [0230 - Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium     | Trees         |
 | 2022/09/18 | [0100 - Same Tree](https://leetcode.com/problems/same-tree/) | Easy       | Trees         |
 | 2022/09/18 | [0572 - Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy       | Trees         |
-| 2022/09/18 | [0235 - LCA of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Easy       | Trees         |
+| 2022/09/18 | [0235 - LCA of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium     | Trees         |
 | 2022/09/18 | [0105 - Construct BT from Preorder and inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium     | Trees         |
 
 ### Contributors
