@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 10    | 30.30%     |
-| Medium     | 23    | 69.70%     |
+| Easy       | 12    | 32.43%     |
+| Medium     | 25    | 67.57%     |
 | Hard       | 0     | 0%         |
-| **Total**  | 33    | 100%       |
+| **Total**  | 37    | 100%       |
 
 #### Details
 
@@ -50,6 +50,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/18 | [0572 - Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | Easy       | Trees         |
 | 2022/09/18 | [0235 - LCA of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium     | Trees         |
 | 2022/09/18 | [0105 - Construct BT from Preorder and inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium     | Trees         |
+| 2022/09/19 | [0703 - Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy       | Heap / PQ     |
+| 2022/09/19 | [1046 - Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy       | Heap / PQ     |
+| 2022/09/19 | [0621 - Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium     | Heap / PQ     |
+| 2022/09/19 | [0355 - Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium     | Heap / PQ     |
 
 ### Contributors
 
