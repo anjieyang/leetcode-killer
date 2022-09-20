@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 12    | 32.43%     |
-| Medium     | 25    | 67.57%     |
+| Easy       | 12    | 30.77%     |
+| Medium     | 27    | 69.23%     |
 | Hard       | 0     | 0%         |
-| **Total**  | 37    | 100%       |
+| **Total**  | 39    | 100%       |
 
 #### Details
 
@@ -54,6 +54,8 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/19 | [1046 - Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Easy       | Heap / PQ     |
 | 2022/09/19 | [0621 - Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium     | Heap / PQ     |
 | 2022/09/19 | [0355 - Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium     | Heap / PQ     |
+| 2022/09/20 | [0208 - Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium     | Tries         |
+| 2022/09/20 | [0211 - Design Add and Search Word Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium     | Tries         |
 
 ### Contributors
 
