@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 12    | 30.77%     |
-| Medium     | 27    | 69.23%     |
+| Easy       | 13    | 30.23%     |
+| Medium     | 30    | 69.77%     |
 | Hard       | 0     | 0%         |
-| **Total**  | 39    | 100%       |
+| **Total**  | 43    | 100%       |
 
 #### Details
 
@@ -56,6 +56,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/19 | [0355 - Design Twitter](https://leetcode.com/problems/design-twitter/) | Medium     | Heap / PQ     |
 | 2022/09/20 | [0208 - Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium     | Tries         |
 | 2022/09/20 | [0211 - Design Add and Search Word Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | Medium     | Tries         |
+| 2022/09/21 | [0125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy       | Two Pointers  |
+| 2022/09/21 | [0167 - Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium     | Two Pointers  |
+| 2022/09/21 | [0015 - 3Sum](https://leetcode.com/problems/3sum/)           | Medium     | Two Pointers  |
+| 2022/09/21 | [0011 - Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium     | Two Pointers  |
 
 ### Contributors
 
