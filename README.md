@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 15    | 31.91%     |
-| Medium     | 32    | 68.09%     |
+| Easy       | 16    | 30.77%     |
+| Medium     | 36    | 69.23%     |
 | Hard       | 0     | 0%         |
-| **Total**  | 47    | 100%       |
+| **Total**  | 52    | 100%       |
 
 #### Details
 
@@ -64,6 +64,11 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/22 | [0242 - Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy       | Arrays & Hashing |
 | 2022/09/22 | [0049 - Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium     | Arrays & Hashing |
 | 2022/09/22 | [0347 - Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium     | Arrays & Hashing |
+| 2022/09/23 | [0001 - Two Sum](https://leetcode.com/problems/two-sum/)     | Easy       | Arrays & Hashing |
+| 2022/09/23 | [0238 - Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium     | Arrays & Hashing |
+| 2022/09/23 | [0036 - Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium     | Arrays & Hashing |
+| 2022/09/23 | [0271 - Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium     | Arrays & Hashing |
+| 2022/09/23 | [0128 - Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium     | Arrays & Hashing |
 
 ### Contributors
 
