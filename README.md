@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 16    | 30.77%     |
-| Medium     | 36    | 69.23%     |
+| Easy       | 16    | 30.19%     |
+| Medium     | 37    | 69.81%     |
 | Hard       | 0     | 0%         |
-| **Total**  | 52    | 100%       |
+| **Total**  | 53    | 100%       |
 
 #### Details
 
@@ -69,6 +69,7 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/23 | [0036 - Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium     | Arrays & Hashing |
 | 2022/09/23 | [0271 - Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | Medium     | Arrays & Hashing |
 | 2022/09/23 | [0128 - Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium     | Arrays & Hashing |
+| 2022/09/24 | [0078 - Subsets](https://leetcode.com/problems/subsets/)     | Medium     | Backtracking     |
 
 ### Contributors
 
