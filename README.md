@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 16    | 28.57%     |
-| Medium     | 40    | 71.43%     |
+| Easy       | 16    | 27.12%     |
+| Medium     | 43    | 72.88%     |
 | Hard       | 0     | 0%         |
-| **Total**  | 56    | 100%       |
+| **Total**  | 59    | 100%       |
 
 #### Details
 
@@ -73,6 +73,9 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/27 | [0039 - Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium     | Backtracking     |
 | 2022/09/27 | [0046 - Permutations](https://leetcode.com/problems/permutations/) | Medium     | Backtracking     |
 | 2022/09/27 | [0090 - Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium     | Backtracking     |
+| 2022/09/28 | [0079 - Word Search](https://leetcode.com/problems/word-search/) | Medium     | Backtracking     |
+| 2022/09/28 | [0131 - Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium     | Backtracking     |
+| 2022/09/28 | [0017 - Letter Combinations of  Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium     | Backtracking     |
 
 ### Contributors
 
