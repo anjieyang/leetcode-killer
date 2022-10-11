@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 16    | 26.67%     |
-| Medium     | 44    | 73.33%     |
+| Easy       | 16    | 25.40%     |
+| Medium     | 47    | 74.60%     |
 | Hard       | 0     | 0%         |
-| **Total**  | 60    | 100%       |
+| **Total**  | 63    | 100%       |
 
 #### Details
 
@@ -77,6 +77,9 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/09/28 | [0131 - Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | Medium     | Backtracking     |
 | 2022/09/28 | [0017 - Letter Combinations of  Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium     | Backtracking     |
 | 2022/10/03 | [0200 - Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium     | Graphs           |
+| 2022/10/11 | [0133 - Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium     | Graphs           |
+| 2022/10/11 | [0695 - Max Area of Islands](https://leetcode.com/problems/max-area-of-island/) | Medium     | Graphs           |
+| 2022/10/11 | [0417 - Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium     | Graphs           |
 
 ### Contributors
 
