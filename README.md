@@ -80,6 +80,9 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/10/11 | [0133 - Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium     | Graphs           |
 | 2022/10/11 | [0695 - Max Area of Islands](https://leetcode.com/problems/max-area-of-island/) | Medium     | Graphs           |
 | 2022/10/11 | [0417 - Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium     | Graphs           |
+| 2022/10/24 | [0130 - Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium     | Graphs           |
+| 2022/10/24 | [0994 - Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium     | Graphs           |
+| 2022/10/24 | [0207 - Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium     | Graphs           |
 
 ### Contributors
 
