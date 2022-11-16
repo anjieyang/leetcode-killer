@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 16    | 25.40%     |
-| Medium     | 47    | 74.60%     |
+| Easy       | 16    | 24.24%     |
+| Medium     | 50    | 75.76%     |
 | Hard       | 0     | 0%         |
-| **Total**  | 63    | 100%       |
+| **Total**  | 66    | 100%       |
 
 #### Details
 
@@ -80,6 +80,9 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/11/10 | [0133 - Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium     | Graphs           |
 | 2022/11/10 | [0695 - Max Area of Islands](https://leetcode.com/problems/max-area-of-island/) | Medium     | Graphs           |
 | 2022/11/10 | [0417 - Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium     | Graphs           |
+| 2022/11/16 | [0130 - Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium     | Graphs           |
+| 2022/11/16 | [0994 - Rottings Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium     | Graphs           |
+| 2022/11/16 | [0207 - Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium     | Graphs           |
 
 ### Contributors
 
