@@ -8,10 +8,10 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 
 | Difficulty | Count | Proportion |
 | ---------- | ----- | ---------- |
-| Easy       | 16    | 24.24%     |
-| Medium     | 50    | 75.76%     |
+| Easy       | 17    | 24.64%     |
+| Medium     | 52    | 75.36%     |
 | Hard       | 0     | 0%         |
-| **Total**  | 66    | 100%       |
+| **Total**  | 69    | 100%       |
 
 #### Details
 
@@ -83,6 +83,9 @@ This Repo is used to record the process of killing (or being killed) by LeetCode
 | 2022/11/16 | [0130 - Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium     | Graphs           |
 | 2022/11/16 | [0994 - Rottings Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium     | Graphs           |
 | 2022/11/16 | [0207 - Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium     | Graphs           |
+| 2023/03/09 | [0669 - Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | Medium     | Binary Tree      |
+| 2023/03/09 | [0108 - Convert Sorted Array to BST](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy       | Binary Tree      |
+| 2023/03/09 | [0538 - Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | Medium     | Binary Tree      |
 
 ### Contributors
 
